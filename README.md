@@ -1,9 +1,12 @@
 <div>
 
   <!-- Brief Intro with Icons -->
-  <h3 align="center">
-    <strong>FullStack Developer & DevOps Engineer</strong>
-  </h3>
+   <h2 align="center">
+    <strong>PADMAVATHI SJ</strong>
+  </h2>
+  <h2 align="center">
+    <strong>FullStack Developer & Cloud Developer</strong>
+  </h2>
 <p>
     🎓 Pursuing B.E in CSE <br>
     🚀 Full Stack Developer (React.js, Node.js, Express.js, MySQL, Docker, Kubernetes, AWS) <br>
