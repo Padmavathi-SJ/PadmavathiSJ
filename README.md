@@ -1,11 +1,5 @@
 <div>
 
- <!-- Animated Typing Effect for Name -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4E7AAB&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Padmavathi SJ;A+Cloud+Enthusiast+%26+Web+Developer;React+%7C+Node.js+%7C+AWS+Learner" alt="nameIntro" />
-  </h1>
-
-
   <!-- Brief Intro with Icons -->
   <h3 align="center">
     <strong>FullStack Developer & DevOps Engineer</strong>
